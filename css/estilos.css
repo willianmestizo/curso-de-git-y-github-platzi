@@ -52,4 +52,7 @@ footer
 {
 	text-align: center;
 	background-color: #DDD;
+	width: 70%;
+    padding: 0;
+	margin: 0 auto;
 }
