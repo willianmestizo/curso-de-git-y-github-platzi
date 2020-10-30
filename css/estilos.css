@@ -1,5 +1,6 @@
 body
 {
+<<<<<<< HEAD
 	background: #1e1f24;
     color: #333;
     text-align: center;
@@ -47,4 +48,10 @@ body
 {
     background: white;
     padding: 1em;
+=======
+}
+footer
+{
+	text-align: center;
+>>>>>>> footer
 }
