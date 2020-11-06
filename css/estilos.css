@@ -48,6 +48,9 @@ body
     background: white;
     padding: 1em;
 }
+#post #logo_m{
+    width: 150px;
+}
 footer
 {
 	text-align: center;
