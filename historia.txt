@@ -12,4 +12,6 @@ Master 2
 
 el segundo curso en el que me certifique es en tecnicas para organizar el tiempo
 
+experimento 1
+
 la primera linea de codigo que se escribe desde linux y con otro usuario
